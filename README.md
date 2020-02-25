@@ -6,7 +6,7 @@ The if/else statement executes a block of code if a specified condition is true.
 
 The if statement executes a statement if a specified condition is truthy. If the condition is falsy, another statement can be executed.
 
-```if (condition)
+if (condition)
    do 1
-[else
-   do 2] ```
+else
+   do 2
